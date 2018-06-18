@@ -1,2 +1,4 @@
 "route_id","agency_id","route_short_name","route_long_name","route_desc","route_type","route_url","route_color","route_text_color","route_sort_order"
-"95","1","95","Route 95 to Fellsway via Salem St","School Route"
+"95","1","95","Route 95 to Fellsway via Salem St","School Bus",3,"","FFC72C","000000",9500
+"101","1","101","Route 101 to Sullivan via West Medford, Medford Hillside & Main St","School Bus",3,"","FFC72C","000000",10100
+"134","1","134","Route 134 to Middlesex & Second via Riverside Ave","School Bus",3,"","FFC72C","000000",13400
