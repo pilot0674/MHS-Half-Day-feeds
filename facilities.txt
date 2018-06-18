@@ -1,0 +1,2 @@
+"facility_id","facility_code","facility_class","facility_type","stop_id","facility_short_name","facility_long_name","facility_desc","facility_lat","facility_lon","wheelchair_facility"
+"bike-mdfrdhs","","3","bike-storage","place-mdfrdhs","Bike rack","Medford High School Bike rack","","42.429779","-71.125987","0",
