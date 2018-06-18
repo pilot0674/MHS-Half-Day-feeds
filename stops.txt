@@ -1,0 +1,7 @@
+"stop_id","stop_code","stop_name","stop_desc","platform_code","platform_name","stop_lat","stop_lon","stop_address","zone_id","stop_url","level_id","location_type","parent_station","wheelchair_boarding"
+"9147","9147","Winthrop St @ Brooks St - Medford HS","","","",42.42737,-71.12592,"","","","",0,"",1
+"9149","9149","Winthrop St @ Exeter St","","","",42.425346,-71.123087,"","","","",0,"",0
+"9150","9150","Winthrop St @ Suffolk St","","","",42.42372,-71.120978,"","","","",0,"",0
+"5008","5008","300 Winthrop St","","","",42.42142,-71.118233,"","","","",0,"",1
+"6298","6298","High St @ Essex St","","","",42.420836,-71.119899,"","","","",0,"",1
+"6299","6299","High St @ Woburn St","","","",42.421843,-71.123212,"","","","",0,"",0
