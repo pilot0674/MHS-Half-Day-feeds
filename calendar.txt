@@ -1,0 +1,4 @@
+"service_id","monday","tuesday","wednesday","thursday","friday","saturday","sunday","start_date","end_date"
+"Bus_134_Fellsway_Garage-JUNE",1,1,1,0,0,0,0,20180618,20180622
+"Bus_101_Sullivan-JUNE",1,1,1,0,0,0,0,20180618,20180622
+"Bus_134_Middlesex_Ave_&_Second_St-JUNE",1,1,1,0,0,0,0,20180618,20180622
