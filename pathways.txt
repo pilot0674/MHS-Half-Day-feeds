@@ -1,0 +1,2 @@
+"pathway_id","from_stop_id","to_stop_id","facility_id","pathway_mode","pathway_type","traversal_time","wheelchair_traversal_time","ramp_slope","stair_count","pathway_name","pathway_code","signposted_as","instructions"
+"
