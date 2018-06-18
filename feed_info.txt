@@ -1,0 +1,2 @@
+"feed_publisher_name","feed_publisher_url","feed_contact_url","feed_contact_email","feed_lang","feed_start_date","feed_end_date","feed_version"
+"Daniel","https://www.mbta.com/","","dannacone21@medford.k12.ma.us","EN",20180901,20190623,"2018-2019 school year"
