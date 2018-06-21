@@ -1,2 +1,5 @@
 "facility_id","facility_code","facility_class","facility_type","stop_id","facility_short_name","facility_long_name","facility_desc","facility_lat","facility_lon","wheelchair_facility"
 "bike-mdfrdhs","","3","bike-storage","place-mdfrdhs","Bike rack","Medford High School Bike rack","","42.429779","-71.125987","0",
+"ramp-mdfrdhs","","2","ramp","place-mdfrdhs","Center Yard to Central Medford HS Busway","Medford High School Busway Ramp Acces (Center Yard to Central Medford HS Busway)","","42.429940","-71.125863","1"
+"ramp-mdfrdhs","","2","ramp","place-mdfrdhs","Northern Center Yard to Medford High School Busway Berths","Medford High School Busway Ramp Acces (Northern Center Yard to Medford High School Busway Berths)","","42.430032","-71.125910","1"
+"ramp-mdfrdhs","","2","ramp","place-mdfrdhs","Southern Center Yard to Medford High School Busway Berths","Medford High School Busway Ramp Acces (Southern Center Yard to Medford High School Busway Berths)","","42.429885","-71.125877","1"
