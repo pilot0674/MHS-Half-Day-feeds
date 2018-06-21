@@ -1,2 +1,2 @@
 "facility_id","property_id","value"
-"bike-mdfrdhs","municipality","Medford, MA"
+"bike-mdfrdhs","owner","Medford High School"
