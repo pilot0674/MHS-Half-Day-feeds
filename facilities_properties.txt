@@ -1,2 +1,8 @@
 "facility_id","property_id","value"
+"pick-mn-entce","owner","Medford High School"
+"pick-mdfrdhs-busway","alternate-service-text","pick up south of the crosswalk is NOT avalible when buses are preasent; instead use the northern part of the Busway or Main Entrence pick up/drop off area"
 "bike-mdfrdhs","owner","Medford High School"
+"ramp-mdfrdhs-1","owner","Medford High School"
+"ramp-mdfrdhs-2","owner","Medford High School"
+"ramp-mdfrdhs-3","owner","Medford High School"
+"ramp-mdfrdhs-4","owner","Medford High School"
