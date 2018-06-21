@@ -1,5 +1,8 @@
 "facility_id","facility_code","facility_class","facility_type","stop_id","facility_short_name","facility_long_name","facility_desc","facility_lat","facility_lon","wheelchair_facility"
+"pick-mdfrdhs-busway","","3","pick-drop","place-mdfrdhs","Steve Miller Drive","Medford High School Busway Pick Up/Drop off","","42.429891","-71.126062","1"
+"pick-mn-entce","","3","pick-drop","place-mdfrdhs","Main Entrence","Medford High School Main Entrence Pick Up/Drop off","","42.429456","-71.124823","1"
 "bike-mdfrdhs","","3","bike-storage","place-mdfrdhs","Bike rack","Medford High School Bike rack","","42.429779","-71.125987","0",
 "ramp-mdfrdhs-1","","2","ramp","place-mdfrdhs","Center Yard to Central Medford HS Busway","Medford High School Busway Ramp Acces (Center Yard to Central Medford HS Busway)","","42.429940","-71.125863","1"
 "ramp-mdfrdhs-2","","2","ramp","place-mdfrdhs","Northern Center Yard to Medford High School Busway Berths","Medford High School Busway Ramp Acces (Northern Center Yard to Medford High School Busway Berths)","","42.430032","-71.125910","1"
 "ramp-mdfrdhs-3","","2","ramp","place-mdfrdhs","Southern Center Yard to Medford High School Busway Berths","Medford High School Busway Ramp Acces (Southern Center Yard to Medford High School Busway Berths)","","42.429885","-71.125877","1"
+"ramp-mdfrdhs-4","","2","ramp","place-mdfrdhs","Gym Area exit to Northern Medford High School Busway","Medford High School Busway Ramp Acces (Gym Area exit to Northern Medford High School Busway)","","42.430852","-71.126127","1"
